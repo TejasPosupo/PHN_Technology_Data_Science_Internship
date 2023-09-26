@@ -1,4 +1,4 @@
-![logo](https://github.com/TejasPosupo/PHN_Technology_Data_Science_Internship/blob/Intern_tasks/228333_page-0001.jpg)
+![logo](https://github.com/TejasPosupo/PHN_Technology_Data_Science_Internship/blob/Intern_tasks/228333.jpg)
 <h1 align="center"><strong>PHN_Technology_Data_Science_Internship</strong></h1>
 <h3 align="center">Internship Tasks</h3>
 
